@@ -1,0 +1,23 @@
+{
+  "entrypoints": {
+    "themes/demo-theme/style": {
+      "chunks": [
+        {
+          "id": 995,
+          "names": [
+            "themes/demo-theme/style"
+          ],
+          "modules": [
+            "./your-extensions/themes/demo-theme/style.ts"
+          ]
+        }
+      ]
+    }
+  },
+  "chunks": [],
+  "errors": [],
+  "warnings": [],
+  "outputPath": "C:\\Users\\fernando.barroso\\Desktop\\Proyectos\\ArcGISExperienceBuilder\\client\\dist-prod",
+  "publicPath": "auto",
+  "version": "5.96.1"
+}

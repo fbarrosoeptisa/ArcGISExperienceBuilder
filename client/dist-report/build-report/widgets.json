@@ -1,0 +1,441 @@
+{
+  "entrypoints": {
+    "widgets/anadir-capa/dist/runtime/widget": {
+      "chunks": [
+        {
+          "id": "widgets/anadir-capa/dist/runtime/widget",
+          "names": [
+            "widgets/anadir-capa/dist/runtime/widget"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./your-extensions/widgets/anadir-capa/src/runtime/widget.css",
+            "./node_modules/css-loader/dist/runtime/api.js",
+            "./node_modules/css-loader/dist/runtime/noSourceMaps.js",
+            "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+            "./node_modules/style-loader/dist/runtime/insertBySelector.js",
+            "./node_modules/style-loader/dist/runtime/insertStyleElement.js",
+            "./node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js",
+            "./node_modules/style-loader/dist/runtime/styleDomAPI.js",
+            "./node_modules/style-loader/dist/runtime/styleTagTransform.js",
+            "./your-extensions/widgets/anadir-capa/src/runtime/widget.css",
+            "./your-extensions/widgets/anadir-capa/src/runtime/widget.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/anadir-capa/dist/setting/setting": {
+      "chunks": [
+        {
+          "id": "widgets/anadir-capa/dist/setting/setting",
+          "names": [
+            "widgets/anadir-capa/dist/setting/setting"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./your-extensions/widgets/anadir-capa/src/setting/setting.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/capa-configurable/dist/runtime/widget": {
+      "chunks": [
+        {
+          "id": "widgets/capa-configurable/dist/runtime/widget",
+          "names": [
+            "widgets/capa-configurable/dist/runtime/widget"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./your-extensions/widgets/capa-configurable/src/runtime/widget.css",
+            "./node_modules/css-loader/dist/runtime/api.js",
+            "./node_modules/css-loader/dist/runtime/noSourceMaps.js",
+            "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+            "./node_modules/style-loader/dist/runtime/insertBySelector.js",
+            "./node_modules/style-loader/dist/runtime/insertStyleElement.js",
+            "./node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js",
+            "./node_modules/style-loader/dist/runtime/styleDomAPI.js",
+            "./node_modules/style-loader/dist/runtime/styleTagTransform.js",
+            "./your-extensions/widgets/capa-configurable/src/runtime/widget.css",
+            "./your-extensions/widgets/capa-configurable/src/runtime/widget.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/capa-configurable/dist/setting/setting": {
+      "chunks": [
+        {
+          "id": "widgets/capa-configurable/dist/setting/setting",
+          "names": [
+            "widgets/capa-configurable/dist/setting/setting"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./your-extensions/widgets/capa-configurable/src/setting/setting.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/configuracion-ayuntamiento/dist/runtime/widget": {
+      "chunks": [
+        {
+          "id": "widgets/configuracion-ayuntamiento/dist/runtime/widget",
+          "names": [
+            "widgets/configuracion-ayuntamiento/dist/runtime/widget"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./your-extensions/widgets/configuracion-ayuntamiento/src/runtime/widget.css",
+            "./node_modules/css-loader/dist/runtime/api.js",
+            "./node_modules/css-loader/dist/runtime/noSourceMaps.js",
+            "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+            "./node_modules/style-loader/dist/runtime/insertBySelector.js",
+            "./node_modules/style-loader/dist/runtime/insertStyleElement.js",
+            "./node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js",
+            "./node_modules/style-loader/dist/runtime/styleDomAPI.js",
+            "./node_modules/style-loader/dist/runtime/styleTagTransform.js",
+            "./your-extensions/widgets/configuracion-ayuntamiento/src/runtime/widget.css",
+            "./your-extensions/widgets/configuracion-ayuntamiento/src/runtime/widget.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/configuracion-ayuntamiento/dist/setting/setting": {
+      "chunks": [
+        {
+          "id": "widgets/configuracion-ayuntamiento/dist/setting/setting",
+          "names": [
+            "widgets/configuracion-ayuntamiento/dist/setting/setting"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./your-extensions/widgets/configuracion-ayuntamiento/src/setting/setting.css",
+            "./node_modules/css-loader/dist/runtime/api.js",
+            "./node_modules/css-loader/dist/runtime/noSourceMaps.js",
+            "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+            "./node_modules/style-loader/dist/runtime/insertBySelector.js",
+            "./node_modules/style-loader/dist/runtime/insertStyleElement.js",
+            "./node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js",
+            "./node_modules/style-loader/dist/runtime/styleDomAPI.js",
+            "./node_modules/style-loader/dist/runtime/styleTagTransform.js",
+            "./your-extensions/widgets/configuracion-ayuntamiento/src/setting/setting.css",
+            "./your-extensions/widgets/configuracion-ayuntamiento/src/setting/setting.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/coordenadas-mapa/dist/runtime/widget": {
+      "chunks": [
+        {
+          "id": "widgets/coordenadas-mapa/dist/runtime/widget",
+          "names": [
+            "widgets/coordenadas-mapa/dist/runtime/widget"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./your-extensions/widgets/coordenadas-mapa/src/runtime/widget.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/coordenadas-mapa/dist/setting/setting": {
+      "chunks": [
+        {
+          "id": "widgets/coordenadas-mapa/dist/setting/setting",
+          "names": [
+            "widgets/coordenadas-mapa/dist/setting/setting"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./your-extensions/widgets/coordenadas-mapa/src/setting/setting.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/crear-punto/dist/runtime/widget": {
+      "chunks": [
+        {
+          "id": "widgets/crear-punto/dist/runtime/widget",
+          "names": [
+            "widgets/crear-punto/dist/runtime/widget"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./your-extensions/widgets/crear-punto/src/runtime/widget.css",
+            "./node_modules/css-loader/dist/runtime/api.js",
+            "./node_modules/css-loader/dist/runtime/noSourceMaps.js",
+            "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+            "./node_modules/style-loader/dist/runtime/insertBySelector.js",
+            "./node_modules/style-loader/dist/runtime/insertStyleElement.js",
+            "./node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js",
+            "./node_modules/style-loader/dist/runtime/styleDomAPI.js",
+            "./node_modules/style-loader/dist/runtime/styleTagTransform.js",
+            "./your-extensions/widgets/crear-punto/src/runtime/widget.css",
+            "./your-extensions/widgets/crear-punto/src/runtime/widget.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/crear-punto/dist/setting/setting": {
+      "chunks": [
+        {
+          "id": "widgets/crear-punto/dist/setting/setting",
+          "names": [
+            "widgets/crear-punto/dist/setting/setting"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./your-extensions/widgets/crear-punto/src/setting/setting.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/css-avanzado/dist/runtime/widget": {
+      "chunks": [
+        {
+          "id": "widgets/css-avanzado/dist/runtime/widget",
+          "names": [
+            "widgets/css-avanzado/dist/runtime/widget"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./your-extensions/widgets/css-avanzado/src/runtime/widget.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/informacion-mapa/dist/runtime/widget": {
+      "chunks": [
+        {
+          "id": "widgets/informacion-mapa/dist/runtime/widget",
+          "names": [
+            "widgets/informacion-mapa/dist/runtime/widget"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./your-extensions/widgets/informacion-mapa/src/runtime/widget.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/informacion-mapa/dist/setting/setting": {
+      "chunks": [
+        {
+          "id": "widgets/informacion-mapa/dist/setting/setting",
+          "names": [
+            "widgets/informacion-mapa/dist/setting/setting"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./your-extensions/widgets/informacion-mapa/src/setting/setting.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/leyenda-personalizada/dist/runtime/widget": {
+      "chunks": [
+        {
+          "id": "widgets/leyenda-personalizada/dist/runtime/widget",
+          "names": [
+            "widgets/leyenda-personalizada/dist/runtime/widget"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./your-extensions/widgets/leyenda-personalizada/src/runtime/widget.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/leyenda-personalizada/dist/setting/setting": {
+      "chunks": [
+        {
+          "id": "widgets/leyenda-personalizada/dist/setting/setting",
+          "names": [
+            "widgets/leyenda-personalizada/dist/setting/setting"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./your-extensions/widgets/leyenda-personalizada/src/setting/setting.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/plantilla-mapa/dist/runtime/widget": {
+      "chunks": [
+        {
+          "id": "widgets/plantilla-mapa/dist/runtime/widget",
+          "names": [
+            "widgets/plantilla-mapa/dist/runtime/widget"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./your-extensions/widgets/plantilla-mapa/src/runtime/widget.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/plantilla-mapa/dist/setting/setting": {
+      "chunks": [
+        {
+          "id": "widgets/plantilla-mapa/dist/setting/setting",
+          "names": [
+            "widgets/plantilla-mapa/dist/setting/setting"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./your-extensions/widgets/plantilla-mapa/src/setting/setting.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/primer-widget/dist/runtime/widget": {
+      "chunks": [
+        {
+          "id": "widgets/primer-widget/dist/runtime/widget",
+          "names": [
+            "widgets/primer-widget/dist/runtime/widget"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./your-extensions/widgets/primer-widget/src/runtime/widget.css",
+            "./node_modules/css-loader/dist/runtime/api.js",
+            "./node_modules/css-loader/dist/runtime/noSourceMaps.js",
+            "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+            "./node_modules/style-loader/dist/runtime/insertBySelector.js",
+            "./node_modules/style-loader/dist/runtime/insertStyleElement.js",
+            "./node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js",
+            "./node_modules/style-loader/dist/runtime/styleDomAPI.js",
+            "./node_modules/style-loader/dist/runtime/styleTagTransform.js",
+            "./your-extensions/widgets/primer-widget/src/runtime/widget.css",
+            "./your-extensions/widgets/primer-widget/src/runtime/widget.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/rotar-mapa/dist/runtime/widget": {
+      "chunks": [
+        {
+          "id": "widgets/rotar-mapa/dist/runtime/widget",
+          "names": [
+            "widgets/rotar-mapa/dist/runtime/widget"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./your-extensions/widgets/rotar-mapa/src/runtime/widget.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/rotar-mapa/dist/setting/setting": {
+      "chunks": [
+        {
+          "id": "widgets/rotar-mapa/dist/setting/setting",
+          "names": [
+            "widgets/rotar-mapa/dist/setting/setting"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./your-extensions/widgets/rotar-mapa/src/setting/setting.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/servicios-ayuntamiento/dist/runtime/widget": {
+      "chunks": [
+        {
+          "id": "widgets/servicios-ayuntamiento/dist/runtime/widget",
+          "names": [
+            "widgets/servicios-ayuntamiento/dist/runtime/widget"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./your-extensions/widgets/servicios-ayuntamiento/src/runtime/widget.css",
+            "./node_modules/css-loader/dist/runtime/api.js",
+            "./node_modules/css-loader/dist/runtime/noSourceMaps.js",
+            "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+            "./node_modules/style-loader/dist/runtime/insertBySelector.js",
+            "./node_modules/style-loader/dist/runtime/insertStyleElement.js",
+            "./node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js",
+            "./node_modules/style-loader/dist/runtime/styleDomAPI.js",
+            "./node_modules/style-loader/dist/runtime/styleTagTransform.js",
+            "./your-extensions/widgets/servicios-ayuntamiento/src/runtime/widget.css",
+            "./your-extensions/widgets/servicios-ayuntamiento/src/runtime/widget.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/simple/dist/runtime/widget": {
+      "chunks": [
+        {
+          "id": "widgets/simple/dist/runtime/widget",
+          "names": [
+            "widgets/simple/dist/runtime/widget"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./your-extensions/widgets/simple/src/runtime/widget.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/sketch-widget/dist/runtime/widget": {
+      "chunks": [
+        {
+          "id": "widgets/sketch-widget/dist/runtime/widget",
+          "names": [
+            "widgets/sketch-widget/dist/runtime/widget"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./your-extensions/widgets/sketch-widget/src/runtime/widget.css",
+            "./node_modules/css-loader/dist/runtime/api.js",
+            "./node_modules/css-loader/dist/runtime/noSourceMaps.js",
+            "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+            "./node_modules/style-loader/dist/runtime/insertBySelector.js",
+            "./node_modules/style-loader/dist/runtime/insertStyleElement.js",
+            "./node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js",
+            "./node_modules/style-loader/dist/runtime/styleDomAPI.js",
+            "./node_modules/style-loader/dist/runtime/styleTagTransform.js",
+            "./your-extensions/widgets/sketch-widget/src/runtime/widget.css",
+            "./your-extensions/widgets/sketch-widget/src/runtime/widget.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/sketch-widget/dist/setting/setting": {
+      "chunks": [
+        {
+          "id": "widgets/sketch-widget/dist/setting/setting",
+          "names": [
+            "widgets/sketch-widget/dist/setting/setting"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./your-extensions/widgets/sketch-widget/src/setting/setting.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/traduccion/dist/runtime/widget": {
+      "chunks": [
+        {
+          "id": "widgets/traduccion/dist/runtime/widget",
+          "names": [
+            "widgets/traduccion/dist/runtime/widget"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./your-extensions/widgets/traduccion/src/runtime/translations/default.ts",
+            "./your-extensions/widgets/traduccion/src/runtime/widget.tsx"
+          ]
+        }
+      ]
+    }
+  },
+  "chunks": [],
+  "errors": [],
+  "warnings": [],
+  "outputPath": "C:\\Users\\fernando.barroso\\Desktop\\Proyectos\\ArcGISExperienceBuilder\\client\\dist-prod",
+  "publicPath": "",
+  "version": "5.96.1"
+}

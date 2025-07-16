@@ -1,0 +1,382 @@
+{
+  "nodes": [
+    {
+      "name": "themes/demo-theme/style",
+      "size": 1458
+    },
+    {
+      "name": "widgets/anadir-capa/dist/runtime/widget",
+      "size": 13359
+    },
+    {
+      "name": "widgets/anadir-capa/dist/setting/setting",
+      "size": 1675
+    },
+    {
+      "name": "widgets/capa-configurable/dist/runtime/widget",
+      "size": 13137
+    },
+    {
+      "name": "widgets/capa-configurable/dist/setting/setting",
+      "size": 2248
+    },
+    {
+      "name": "widgets/configuracion-ayuntamiento/dist/runtime/widget",
+      "size": 13246
+    },
+    {
+      "name": "widgets/configuracion-ayuntamiento/dist/setting/setting",
+      "size": 13717
+    },
+    {
+      "name": "widgets/coordenadas-mapa/dist/runtime/widget",
+      "size": 2716
+    },
+    {
+      "name": "widgets/coordenadas-mapa/dist/setting/setting",
+      "size": 1675
+    },
+    {
+      "name": "widgets/crear-punto/dist/runtime/widget",
+      "size": 14496
+    },
+    {
+      "name": "widgets/crear-punto/dist/setting/setting",
+      "size": 1675
+    },
+    {
+      "name": "widgets/css-avanzado/dist/runtime/widget",
+      "size": 3569
+    },
+    {
+      "name": "widgets/informacion-mapa/dist/runtime/widget",
+      "size": 2616
+    },
+    {
+      "name": "widgets/informacion-mapa/dist/setting/setting",
+      "size": 1675
+    },
+    {
+      "name": "widgets/leyenda-personalizada/dist/runtime/widget",
+      "size": 2229
+    },
+    {
+      "name": "widgets/leyenda-personalizada/dist/setting/setting",
+      "size": 1675
+    },
+    {
+      "name": "widgets/plantilla-mapa/dist/runtime/widget",
+      "size": 1811
+    },
+    {
+      "name": "widgets/plantilla-mapa/dist/setting/setting",
+      "size": 1675
+    },
+    {
+      "name": "widgets/primer-widget/dist/runtime/widget",
+      "size": 13335
+    },
+    {
+      "name": "widgets/rotar-mapa/dist/runtime/widget",
+      "size": 2150
+    },
+    {
+      "name": "widgets/rotar-mapa/dist/setting/setting",
+      "size": 1675
+    },
+    {
+      "name": "widgets/servicios-ayuntamiento/dist/runtime/widget",
+      "size": 15213
+    },
+    {
+      "name": "widgets/simple/dist/runtime/widget",
+      "size": 1465
+    },
+    {
+      "name": "widgets/sketch-widget/dist/runtime/widget",
+      "size": 14185
+    },
+    {
+      "name": "widgets/sketch-widget/dist/setting/setting",
+      "size": 1675
+    },
+    {
+      "name": "widgets/traduccion/dist/runtime/widget",
+      "size": 1587
+    }
+  ],
+  "links": [
+    {
+      "source": "widgets/anadir-capa/dist/runtime/widget",
+      "target": "esri/layers/FeatureLayer"
+    },
+    {
+      "source": "widgets/anadir-capa/dist/runtime/widget",
+      "target": "jimu-arcgis/index"
+    },
+    {
+      "source": "widgets/anadir-capa/dist/runtime/widget",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/anadir-capa/dist/runtime/widget",
+      "target": "jimu-core/react"
+    },
+    {
+      "source": "widgets/anadir-capa/dist/runtime/widget",
+      "target": "jimu-ui/index"
+    },
+    {
+      "source": "widgets/anadir-capa/dist/setting/setting",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/anadir-capa/dist/setting/setting",
+      "target": "jimu-ui/advanced/setting-components"
+    },
+    {
+      "source": "widgets/capa-configurable/dist/runtime/widget",
+      "target": "esri/layers/FeatureLayer"
+    },
+    {
+      "source": "widgets/capa-configurable/dist/runtime/widget",
+      "target": "jimu-arcgis/index"
+    },
+    {
+      "source": "widgets/capa-configurable/dist/runtime/widget",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/capa-configurable/dist/runtime/widget",
+      "target": "jimu-core/react"
+    },
+    {
+      "source": "widgets/capa-configurable/dist/runtime/widget",
+      "target": "jimu-ui/index"
+    },
+    {
+      "source": "widgets/capa-configurable/dist/setting/setting",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/capa-configurable/dist/setting/setting",
+      "target": "jimu-ui/index"
+    },
+    {
+      "source": "widgets/capa-configurable/dist/setting/setting",
+      "target": "jimu-ui/advanced/setting-components"
+    },
+    {
+      "source": "widgets/configuracion-ayuntamiento/dist/runtime/widget",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/configuracion-ayuntamiento/dist/setting/setting",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/coordenadas-mapa/dist/runtime/widget",
+      "target": "jimu-arcgis/index"
+    },
+    {
+      "source": "widgets/coordenadas-mapa/dist/runtime/widget",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/coordenadas-mapa/dist/runtime/widget",
+      "target": "jimu-core/react"
+    },
+    {
+      "source": "widgets/coordenadas-mapa/dist/setting/setting",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/coordenadas-mapa/dist/setting/setting",
+      "target": "jimu-ui/advanced/setting-components"
+    },
+    {
+      "source": "widgets/crear-punto/dist/runtime/widget",
+      "target": "esri/Graphic"
+    },
+    {
+      "source": "widgets/crear-punto/dist/runtime/widget",
+      "target": "esri/layers/GraphicsLayer"
+    },
+    {
+      "source": "widgets/crear-punto/dist/runtime/widget",
+      "target": "esri/symbols/SimpleMarkerSymbol.js"
+    },
+    {
+      "source": "widgets/crear-punto/dist/runtime/widget",
+      "target": "jimu-arcgis/index"
+    },
+    {
+      "source": "widgets/crear-punto/dist/runtime/widget",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/crear-punto/dist/runtime/widget",
+      "target": "jimu-core/react"
+    },
+    {
+      "source": "widgets/crear-punto/dist/runtime/widget",
+      "target": "jimu-ui/index"
+    },
+    {
+      "source": "widgets/crear-punto/dist/setting/setting",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/crear-punto/dist/setting/setting",
+      "target": "jimu-ui/advanced/setting-components"
+    },
+    {
+      "source": "widgets/css-avanzado/dist/runtime/widget",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/css-avanzado/dist/runtime/widget",
+      "target": "jimu-core/react"
+    },
+    {
+      "source": "widgets/css-avanzado/dist/runtime/widget",
+      "target": "jimu-ui/index"
+    },
+    {
+      "source": "widgets/informacion-mapa/dist/runtime/widget",
+      "target": "jimu-arcgis/index"
+    },
+    {
+      "source": "widgets/informacion-mapa/dist/runtime/widget",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/informacion-mapa/dist/runtime/widget",
+      "target": "jimu-core/react"
+    },
+    {
+      "source": "widgets/informacion-mapa/dist/setting/setting",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/informacion-mapa/dist/setting/setting",
+      "target": "jimu-ui/advanced/setting-components"
+    },
+    {
+      "source": "widgets/leyenda-personalizada/dist/runtime/widget",
+      "target": "esri/widgets/Legend"
+    },
+    {
+      "source": "widgets/leyenda-personalizada/dist/runtime/widget",
+      "target": "jimu-arcgis/index"
+    },
+    {
+      "source": "widgets/leyenda-personalizada/dist/runtime/widget",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/leyenda-personalizada/dist/runtime/widget",
+      "target": "jimu-core/react"
+    },
+    {
+      "source": "widgets/leyenda-personalizada/dist/setting/setting",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/leyenda-personalizada/dist/setting/setting",
+      "target": "jimu-ui/advanced/setting-components"
+    },
+    {
+      "source": "widgets/plantilla-mapa/dist/runtime/widget",
+      "target": "jimu-arcgis/index"
+    },
+    {
+      "source": "widgets/plantilla-mapa/dist/runtime/widget",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/plantilla-mapa/dist/setting/setting",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/plantilla-mapa/dist/setting/setting",
+      "target": "jimu-ui/advanced/setting-components"
+    },
+    {
+      "source": "widgets/primer-widget/dist/runtime/widget",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/rotar-mapa/dist/runtime/widget",
+      "target": "jimu-arcgis/index"
+    },
+    {
+      "source": "widgets/rotar-mapa/dist/runtime/widget",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/rotar-mapa/dist/runtime/widget",
+      "target": "jimu-core/react"
+    },
+    {
+      "source": "widgets/rotar-mapa/dist/runtime/widget",
+      "target": "jimu-ui/index"
+    },
+    {
+      "source": "widgets/rotar-mapa/dist/setting/setting",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/rotar-mapa/dist/setting/setting",
+      "target": "jimu-ui/advanced/setting-components"
+    },
+    {
+      "source": "widgets/servicios-ayuntamiento/dist/runtime/widget",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/servicios-ayuntamiento/dist/runtime/widget",
+      "target": "jimu-core/react"
+    },
+    {
+      "source": "widgets/simple/dist/runtime/widget",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/sketch-widget/dist/runtime/widget",
+      "target": "esri/layers/GraphicsLayer"
+    },
+    {
+      "source": "widgets/sketch-widget/dist/runtime/widget",
+      "target": "esri/rest/support/Query"
+    },
+    {
+      "source": "widgets/sketch-widget/dist/runtime/widget",
+      "target": "esri/widgets/Sketch"
+    },
+    {
+      "source": "widgets/sketch-widget/dist/runtime/widget",
+      "target": "jimu-arcgis/index"
+    },
+    {
+      "source": "widgets/sketch-widget/dist/runtime/widget",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/sketch-widget/dist/runtime/widget",
+      "target": "jimu-core/react"
+    },
+    {
+      "source": "widgets/sketch-widget/dist/setting/setting",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/sketch-widget/dist/setting/setting",
+      "target": "jimu-ui/advanced/setting-components"
+    },
+    {
+      "source": "widgets/traduccion/dist/runtime/widget",
+      "target": "jimu-core/index"
+    }
+  ]
+}
