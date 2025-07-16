@@ -1,0 +1,41 @@
+.servicios-ayuntamiento {
+    background-color: whitesmoke;
+    border-radius: 15px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    margin: 6px;
+    padding: 10px;
+}
+
+.botones {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    & button {
+        background-color: cornflowerblue;
+        border-color: gray;
+        border-radius: 6px;
+        padding: 4px;
+        color: white;
+    }
+}
+
+.ocultar {
+    display: flex;
+    justify-content: center;
+    & button {
+        margin-top: 15px;
+        background-color: red;
+        color: white;
+        border-radius: 6px;
+        padding: 4px;
+    }
+}
+
+.info {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 6px;
+}

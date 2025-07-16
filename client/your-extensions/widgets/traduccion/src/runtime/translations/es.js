@@ -1,0 +1,7 @@
+System.register([], function (e) {
+  return {
+    execute: function () {
+      e({ _widgetLabel: 'Traducciones', helloWorld: 'Hola Mundo' });
+    },
+  };
+});

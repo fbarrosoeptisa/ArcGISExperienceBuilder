@@ -1,0 +1,10 @@
+.anadir-capa {
+  background-color: whitesmoke;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 5px;
+}
